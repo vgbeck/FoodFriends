@@ -1,0 +1,158 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "\u041d\u043e\u0432\u0430 \u0413\u043e\u0434\u0438\u043d\u0430, Nova Godina",
+        "name": "New Year's Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-07",
+        "localName": "\u041f\u0440\u0432 \u0434\u0435\u043d \u0411\u043e\u0436\u0438\u043a, Prv den Bo\u017eik",
+        "name": "Christmas Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "\u0414\u0435\u043d \u043d\u0430 \u0442\u0440\u0443\u0434\u043e\u0442, Den na trudot",
+        "name": "Labour Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-03",
+        "localName": "\u0412\u0435\u043b\u0438\u043a\u0438 \u041f\u0435\u0442\u043e\u043a, Veliki Petok",
+        "name": "Good Friday",
+        "countryCode": "MK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-05",
+        "localName": "\u041f\u0440\u0432 \u0434\u0435\u043d \u0412\u0435\u043b\u0438\u0433\u0434\u0435\u043d, Prv den Veligden",
+        "name": "Easter Sunday",
+        "countryCode": "MK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-06",
+        "localName": "\u0412\u0442\u043e\u0440 \u0434\u0435\u043d \u0412\u0435\u043b\u0438\u0433\u0434\u0435\u043d, Vtor den Veligden",
+        "name": "Easter Monday",
+        "countryCode": "MK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-24",
+        "localName": "\u0421\u0432. \u041a\u0438\u0440\u0438\u043b \u0438 \u041c\u0435\u0442\u043e\u0434\u0438\u0458, \u0414\u0435\u043d \u043d\u0430 \u0441\u00e8\u0441\u043b\u043e\u0432\u0435\u043d\u0441\u043a\u0438\u0442\u0435 \u043f\u0440\u043e\u0441\u0432\u0435\u0442\u0438\u0442\u0435\u043b\u0438",
+        "name": "Saints Cyril and Methodius Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-02",
+        "localName": "\u0414\u0435\u043d \u043d\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0442\u0430, Den na Republikata",
+        "name": "Day of the Republic",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-08",
+        "localName": "\u0414\u0435\u043d \u043d\u0430 \u043d\u0435\u0437\u0430\u0432\u0438\u0441\u043d\u043e\u0441\u0442\u0430, Den na nezavisnosta",
+        "name": "Independence Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-11",
+        "localName": "\u0414\u0435\u043d \u043d\u0430 \u0432\u043e\u0441\u0442\u0430\u043d\u0438\u0435\u0442\u043e, Den na vostanieto",
+        "name": "Revolution Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-23",
+        "localName": "\u0414\u0435\u043d \u043d\u0430 \u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0430\u0442\u0430 \u0440\u0435\u0432\u043e\u043b\u0443\u0446\u0438\u043e\u043d\u0435\u0440\u043d\u0430 \u0431\u043e\u0440\u0431\u0430,Den na makedonskata revolucionarna borba",
+        "name": "Day of the Macedonian Revolutionary Struggle",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-08",
+        "localName": "\u0421\u0432. \u041a\u043b\u0438\u043c\u0435\u043d\u0442 \u041e\u0445\u0440\u0438\u0434\u0441\u043a\u0438, Sv. Kliment Ohridski",
+        "name": "Saint Clement of Ohrid Day",
+        "countryCode": "MK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

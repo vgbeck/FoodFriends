@@ -1,0 +1,275 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "D\u00eda de A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-06",
+        "localName": "D\u00eda de Reyes",
+        "name": "Three Kings Day / Epiphany",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-08",
+        "localName": "Natalicio de Eugenio Mar\u00eda de Hostos",
+        "name": "Birthday of Eugenio Mar\u00eda de Hostos",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-15",
+        "localName": "Natalicio de Martin Luther King, Jr.",
+        "name": "Martin Luther King, Jr. Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-18",
+        "localName": "Natalicio de Luis Mu\u00f1oz Mar\u00edn",
+        "name": "Birthday of Luis Mu\u00f1oz Mar\u00edn",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-19",
+        "localName": "D\u00eda de los Presidentes",
+        "name": "Presidents' Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-22",
+        "localName": "D\u00eda de la Abolici\u00f3n de Esclavitud",
+        "name": "Emancipation Day",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Viernes Santo",
+        "name": "Good Friday",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-15",
+        "localName": "Natalicio de Jos\u00e9 de Diego",
+        "name": "Birthday of Jos\u00e9 de Diego",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-27",
+        "localName": "Recordaci\u00f3n de los Muertos de la Guerra",
+        "name": "Memorial Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-04",
+        "localName": "D\u00eda de la Independencia de los Estados Unidos",
+        "name": "Independence Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-15",
+        "localName": "Natalicio de Don Luis Mu\u00f1oz Rivera",
+        "name": "Birthday of Don Luis Mu\u00f1oz Rivera",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-25",
+        "localName": "Constituci\u00f3n de Puerto Rico",
+        "name": "Puerto Rico Constitution Day",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-27",
+        "localName": "Natalicio de Dr. Jos\u00e9 Celso Barbosa",
+        "name": "Birthday of Dr. Jos\u00e9 Celso Barbosa",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-02",
+        "localName": "D\u00eda del Trabajo",
+        "name": "Labour Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-14",
+        "localName": "D\u00eda de la Raza Descubrimiento de Am\u00e9rica",
+        "name": "Columbus Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-11",
+        "localName": "D\u00eda del Veterano D\u00eda del Armisticio",
+        "name": "Veterans Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-19",
+        "localName": "D\u00eda del Descubrimiento de Puerto Rico",
+        "name": "Discovery of Puerto Rico",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-28",
+        "localName": "D\u00eda de Acci\u00f3n de Gracias",
+        "name": "Thanksgiving Day",
+        "countryCode": "PR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "Noche Buena",
+        "name": "Christmas Eve",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Navidad",
+        "name": "Christmas Day",
+        "countryCode": "PR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

@@ -1,0 +1,106 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "MX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-05",
+        "localName": "D\u00eda de la Constituci\u00f3n",
+        "name": "Constitution Day",
+        "countryCode": "MX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-18",
+        "localName": "Natalicio de Benito Ju\u00e1rez",
+        "name": "Benito Ju\u00e1rez's birthday",
+        "countryCode": "MX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda del Trabajo",
+        "name": "Labor Day",
+        "countryCode": "MX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-16",
+        "localName": "D\u00eda de la Independencia",
+        "name": "Independence Day",
+        "countryCode": "MX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-18",
+        "localName": "D\u00eda de la Revoluci\u00f3n",
+        "name": "Revolution Day",
+        "countryCode": "MX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-01",
+        "localName": "Transmisi\u00f3n del Poder Ejecutivo Federal",
+        "name": "Inauguration Day",
+        "countryCode": "MX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Navidad",
+        "name": "Christmas Day",
+        "countryCode": "MX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

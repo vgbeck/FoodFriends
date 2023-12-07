@@ -1,0 +1,210 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "\u5143\u65e5",
+        "name": "New Year's Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-08",
+        "localName": "\u6210\u4eba\u306e\u65e5",
+        "name": "Coming of Age Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "localName": "\u5efa\u56fd\u8a18\u5ff5\u306e\u65e5",
+        "name": "Foundation Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-23",
+        "localName": "\u5929\u7687\u8a95\u751f\u65e5",
+        "name": "The Emperor's Birthday",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-20",
+        "localName": "\u6625\u5206\u306e\u65e5",
+        "name": "Vernal Equinox Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-29",
+        "localName": "\u662d\u548c\u306e\u65e5",
+        "name": "Sh\u014dwa Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-03",
+        "localName": "\u61b2\u6cd5\u8a18\u5ff5\u65e5",
+        "name": "Constitution Memorial Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-04",
+        "localName": "\u307f\u3069\u308a\u306e\u65e5",
+        "name": "Greenery Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-06",
+        "localName": "\u3053\u3069\u3082\u306e\u65e5",
+        "name": "Children's Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-15",
+        "localName": "\u6d77\u306e\u65e5",
+        "name": "Marine Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-12",
+        "localName": "\u5c71\u306e\u65e5",
+        "name": "Mountain Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-16",
+        "localName": "\u656c\u8001\u306e\u65e5",
+        "name": "Respect for the Aged Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-22",
+        "localName": "\u79cb\u5206\u306e\u65e5",
+        "name": "Autumnal Equinox Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-14",
+        "localName": "\u30b9\u30dd\u30fc\u30c4\u306e\u65e5",
+        "name": "Sports Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-04",
+        "localName": "\u6587\u5316\u306e\u65e5",
+        "name": "Culture Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-23",
+        "localName": "\u52e4\u52b4\u611f\u8b1d\u306e\u65e5",
+        "name": "Labour Thanksgiving Day",
+        "countryCode": "JP",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

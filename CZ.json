@@ -1,0 +1,171 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "Den obnovy samostatn\u00e9ho \u010desk\u00e9ho st\u00e1tu; Nov\u00fd rok",
+        "name": "New Year's Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Velk\u00fd p\u00e1tek",
+        "name": "Good Friday",
+        "countryCode": "CZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": 2016,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "Velikono\u010dn\u00ed pond\u011bl\u00ed",
+        "name": "Easter Monday",
+        "countryCode": "CZ",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "Sv\u00e1tek pr\u00e1ce",
+        "name": "Labour Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-08",
+        "localName": "Den v\u00edt\u011bzstv\u00ed",
+        "name": "Liberation Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-05",
+        "localName": "Den slovansk\u00fdch v\u011brozv\u011bst\u016f Cyrila a Metod\u011bje",
+        "name": "Saints Cyril and Methodius Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-06",
+        "localName": "Den up\u00e1len\u00ed mistra Jana Husa",
+        "name": "Jan Hus Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-28",
+        "localName": "Den \u010desk\u00e9 st\u00e1tnosti",
+        "name": "St. Wenceslas Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-28",
+        "localName": "Den vzniku samostatn\u00e9ho \u010deskoslovensk\u00e9ho st\u00e1tu",
+        "name": "Independent Czechoslovak State Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-17",
+        "localName": "Den boje za svobodu a demokracii a Mezin\u00e1rodn\u00ed den studentstva",
+        "name": "Struggle for Freedom and Democracy Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "\u0160t\u011bdr\u00fd den",
+        "name": "Christmas Eve",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "1. sv\u00e1tek v\u00e1no\u010dn\u00ed",
+        "name": "Christmas Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "2. sv\u00e1tek v\u00e1no\u010dn\u00ed",
+        "name": "St. Stephen's Day",
+        "countryCode": "CZ",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "N\u00fdggj\u00e1rsdagur",
+        "name": "New Year's Day",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-28",
+        "localName": "Sk\u00edrh\u00f3sdagur",
+        "name": "Maundy Thursday",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Langifr\u00edggjadagur",
+        "name": "Good Friday",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "P\u00e1skadagur",
+        "name": "Easter Sunday",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "2. P\u00e1skadagur",
+        "name": "Easter Monday",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-25",
+        "localName": "Flaggdagur",
+        "name": "National Flag Day",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-26",
+        "localName": "D\u00fdri bi\u00f0idagur",
+        "name": "General Prayer Day",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-09",
+        "localName": "Kristi himmalsfer\u00f0ar dagur",
+        "name": "Ascension Day",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-19",
+        "localName": "Hv\u00edtasunnudagur",
+        "name": "Pentecost",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-20",
+        "localName": "2. Hv\u00edtasunnudagur",
+        "name": "Whit Monday",
+        "countryCode": "FO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-05",
+        "localName": "Grundl\u00f3gardagur Danmarkar",
+        "name": "Constitution Day",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-28",
+        "localName": "\u00d3lavs\u00f8kuaftan",
+        "name": "Saint Olav's Eve",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-29",
+        "localName": "\u00d3lavs\u00f8kudagur",
+        "name": "Saint Olav's Day",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "J\u00f3laaftanskv\u00f8ld",
+        "name": "Christmas Eve",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "J\u00f3ladagur",
+        "name": "Christmas Day",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "2. J\u00f3ladagur",
+        "name": "St. Stephen's Day",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-31",
+        "localName": "N\u00fdggj\u00e1rsaftan",
+        "name": "New Year's Eve",
+        "countryCode": "FO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

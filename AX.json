@@ -1,0 +1,249 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "Ny\u00e5rsdagen",
+        "name": "New Year's Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "L\u00e5ngfredag",
+        "name": "Good Friday",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-30",
+        "localName": "\u00c5lands demilitariseringsdag",
+        "name": "Demilitarization Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "P\u00e5skdagen",
+        "name": "Easter Sunday",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": 1642,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "Annandag p\u00e5sk",
+        "name": "Easter Monday",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": 1642,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-30",
+        "localName": "Valborgsm\u00e4ssoafton",
+        "name": "Walpurgis Night",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "F\u00f6rsta maj",
+        "name": "May Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-09",
+        "localName": "Kristi himmelsf\u00e4rdsdagn",
+        "name": "Ascension Day",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-19",
+        "localName": "Pingstdagen",
+        "name": "Pentecost",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-20",
+        "localName": "Annandag Pingst",
+        "name": "Whit Monday",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-01",
+        "localName": "Trettondagen",
+        "name": "Epiphany",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-09",
+        "localName": "Sj\u00e4lvstyrelsedagen",
+        "name": "Autonomy Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-15",
+        "localName": "Midsommardagen",
+        "name": "Midsummer Day",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-21",
+        "localName": "Midsommarafton",
+        "name": "Midsummer Eve",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-02",
+        "localName": "Alla helgons dag",
+        "name": "All Saints Day",
+        "countryCode": "AX",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-06",
+        "localName": "Sj\u00e4lvst\u00e4ndighetsdagen",
+        "name": "Independence Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "Julafton",
+        "name": "Christmas Eve",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Juldagen",
+        "name": "Christmas Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "Annandag jul",
+        "name": "St. Stephen's Day",
+        "countryCode": "AX",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

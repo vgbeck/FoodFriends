@@ -1,0 +1,184 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "Y\u0131lba\u015f\u0131",
+        "name": "New Year's Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-30",
+        "localName": "Ramazan Bayram\u0131 1. G\u00fcn",
+        "name": "Eid al-Fitr First Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "Ramazan Bayram\u0131 2. G\u00fcn",
+        "name": "Eid al-Fitr Second Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "Ramazan Bayram\u0131 3. G\u00fcn",
+        "name": "Eid al-Fitr Third Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-23",
+        "localName": "Ulusal Egemenlik ve \u00c7ocuk Bayram\u0131",
+        "name": "National Independence & Children's Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "\u0130\u015f\u00e7i Bayram\u0131",
+        "name": "Labour Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-19",
+        "localName": "Atat\u00fcrk'\u00fc Anma, Gen\u00e7lik ve Spor Bayram\u0131",
+        "name": "Atat\u00fcrk Commemoration & Youth Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-06",
+        "localName": "Kurban Bayram\u0131 1. G\u00fcn",
+        "name": "Eid al-Adha First Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-07",
+        "localName": "Kurban Bayram\u0131 2. G\u00fcn",
+        "name": "Eid al-Adha Second Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-08",
+        "localName": "Kurban Bayram\u0131 3. G\u00fcn",
+        "name": "Eid al-Adha Third Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-09",
+        "localName": "Kurban Bayram\u0131 4. G\u00fcn",
+        "name": "Eid al-Adha Fourth Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-15",
+        "localName": "Demokrasi ve Mill\u00ee Birlik G\u00fcn\u00fc",
+        "name": "Democracy and National Unity Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-30",
+        "localName": "Zafer Bayram\u0131",
+        "name": "Victory Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-29",
+        "localName": "Cumhuriyet Bayram\u0131",
+        "name": "Republic Day",
+        "countryCode": "TR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

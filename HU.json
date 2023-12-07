@@ -1,0 +1,171 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "\u00daj\u00e9v",
+        "name": "New Year's Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-15",
+        "localName": "Nemzeti \u00fcnnep",
+        "name": "1848 Revolution Memorial Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Nagyp\u00e9ntek",
+        "name": "Good Friday",
+        "countryCode": "HU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "H\u00fasv\u00e9tvas\u00e1rnap",
+        "name": "Easter Sunday",
+        "countryCode": "HU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "H\u00fasv\u00e9th\u00e9tf\u0151",
+        "name": "Easter Monday",
+        "countryCode": "HU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "A munka \u00fcnnepe",
+        "name": "Labour day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-19",
+        "localName": "P\u00fcnk\u00f6sdvas\u00e1rnap",
+        "name": "Pentecost",
+        "countryCode": "HU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-20",
+        "localName": "P\u00fcnk\u00f6sdh\u00e9tf\u0151",
+        "name": "Whit Monday",
+        "countryCode": "HU",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-20",
+        "localName": "Az \u00e1llamalap\u00edt\u00e1s \u00fcnnepe",
+        "name": "State Foundation Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-23",
+        "localName": "Nemzeti \u00fcnnep",
+        "name": "1956 Revolution Memorial Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-01",
+        "localName": "Mindenszentek",
+        "name": "All Saints Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Kar\u00e1csony",
+        "name": "Christmas Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "Kar\u00e1csony m\u00e1snapja",
+        "name": "St. Stephen's Day",
+        "countryCode": "HU",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

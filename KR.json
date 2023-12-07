@@ -1,0 +1,197 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "\uc0c8\ud574",
+        "name": "New Year's Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-09",
+        "localName": "\uc124\ub0a0",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-10",
+        "localName": "\uc124\ub0a0",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "localName": "\uc124\ub0a0",
+        "name": "Lunar New Year",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-01",
+        "localName": "3\u00b71\uc808",
+        "name": "Independence Movement Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-06",
+        "localName": "\uc5b4\ub9b0\uc774\ub0a0",
+        "name": "Children's Day",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-15",
+        "localName": "\ubd80\ucc98\ub2d8 \uc624\uc2e0 \ub0a0",
+        "name": "Buddha's Birthday",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-06",
+        "localName": "\ud604\ucda9\uc77c",
+        "name": "Memorial Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-15",
+        "localName": "\uad11\ubcf5\uc808",
+        "name": "Liberation Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-16",
+        "localName": "\ucd94\uc11d",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-17",
+        "localName": "\ucd94\uc11d",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-18",
+        "localName": "\ucd94\uc11d",
+        "name": "Chuseok",
+        "countryCode": "KR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-03",
+        "localName": "\uac1c\ucc9c\uc808",
+        "name": "National Foundation Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-09",
+        "localName": "\ud55c\uae00\ub0a0",
+        "name": "Hangul Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "\ud06c\ub9ac\uc2a4\ub9c8\uc2a4",
+        "name": "Christmas Day",
+        "countryCode": "KR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

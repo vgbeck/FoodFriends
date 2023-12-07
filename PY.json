@@ -1,0 +1,158 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "New Year's Day",
+        "name": "New Year's Day",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-01",
+        "localName": "Dia de los h\u00e9roes",
+        "name": "Heroes' day",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-28",
+        "localName": "Jueves Santo",
+        "name": "Maundy Thursday",
+        "countryCode": "PY",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Viernes Santo",
+        "name": "Good Friday",
+        "countryCode": "PY",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda de los Trabajadores",
+        "name": "Labour Day",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-14",
+        "localName": "Independencia",
+        "name": "Paraguayan Independence",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-15",
+        "localName": "Independencia",
+        "name": "Paraguayan Independence",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-12",
+        "localName": "Dia de la Paz del Chaco",
+        "name": "Chaco Armistice",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-15",
+        "localName": "Fundaci\u00f3n de Asunci\u00f3n",
+        "name": "Founding of Asunci\u00f3n",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-29",
+        "localName": "Victoria de Boquer\u00f3n",
+        "name": "Boqueron Battle Victory Day",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-08",
+        "localName": "Virgen de Caacup\u00e9",
+        "name": "Virgin of Caacupe",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "D\u00eda de Navidad",
+        "name": "Christmas Day",
+        "countryCode": "PY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

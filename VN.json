@@ -1,0 +1,54 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "T\u1ebft d\u01b0\u01a1ng l\u1ecbch",
+        "name": "New Year's Day",
+        "countryCode": "VN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-30",
+        "localName": "Ng\u00e0y Gi\u1ea3i ph\u00f3ng mi\u1ec1n Nam, th\u1ed1ng nh\u1ea5t \u0111\u1ea5t n\u01b0\u1edbc",
+        "name": "Reunification Day",
+        "countryCode": "VN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "Ng\u00e0y Qu\u1ed1c t\u1ebf lao \u0111\u1ed9ng",
+        "name": "Labour Day",
+        "countryCode": "VN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-02",
+        "localName": "Qu\u1ed1c kh\u00e1nh",
+        "name": "National Day",
+        "countryCode": "VN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

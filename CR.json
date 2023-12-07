@@ -1,0 +1,145 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "CR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-28",
+        "localName": "Jueves Santo",
+        "name": "Maundy Thursday",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Viernes Santo",
+        "name": "Good Friday",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-15",
+        "localName": "D\u00eda de Juan Santamar\u00eda",
+        "name": "Juan Santamar\u00eda Day",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda Internacional del Trabajo",
+        "name": "Labour Day",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-29",
+        "localName": "Anexi\u00f3n del Partido de Nicoya a Costa Rica",
+        "name": "Annexation of the Party of Nicoya to Costa Rica",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-02",
+        "localName": "Fiesta de Nuestra Se\u00f1ora de los \u00c1ngeles",
+        "name": "Feast of Our Lady of the Angels",
+        "countryCode": "CR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-19",
+        "localName": "D\u00eda de la Madre",
+        "name": "Mother's Day",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-15",
+        "localName": "D\u00eda de la Independencia",
+        "name": "Independence Day",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-01",
+        "localName": "D\u00eda de la Abolici\u00f3n del Ej\u00e9rcito",
+        "name": "Army Abolition Day",
+        "countryCode": "CR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Navidad",
+        "name": "Christmas Day",
+        "countryCode": "CR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

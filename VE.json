@@ -1,0 +1,496 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "D\u00eda de A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-06",
+        "localName": "D\u00eda de Reyes",
+        "name": "Epiphany",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-14",
+        "localName": "D\u00eda de la Divina Pastora",
+        "name": "Feast of the Divina Pastora",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-15",
+        "localName": "D\u00eda del Maestro",
+        "name": "Teacher's Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "localName": "D\u00eda de la Juventud",
+        "name": "Youth Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "localName": "Carnaval",
+        "name": "Carnival",
+        "countryCode": "VE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-13",
+        "localName": "Carnaval",
+        "name": "Carnival",
+        "countryCode": "VE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-20",
+        "localName": "Dia de la Federacion",
+        "name": "Federation Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-08",
+        "localName": "Dia Internacional de la Mujer",
+        "name": "International Women's Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-19",
+        "localName": "D\u00eda de San Jos\u00e9",
+        "name": "St Joseph's Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-21",
+        "localName": "D\u00eda del abolici\u00f3n de la esclavitud",
+        "name": "Slavery Abolition Anniversary",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "Aniversario del fundacion del San Crist\u00f3bal",
+        "name": "Foundation anniversary Day of San Crist\u00f3bal, T\u00e1chira",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-19",
+        "localName": "Diez y nueve de abril",
+        "name": "Beginning of the Independence Movement",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda del Trabajador",
+        "name": "Labor Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-03",
+        "localName": "D\u00eda del Cruz del Mayo",
+        "name": "Fiesta de las Cruces",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-12",
+        "localName": "D\u00eda de las Madres",
+        "name": "Mother's Day",
+        "countryCode": "VE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-16",
+        "localName": "D\u00eda de los Padres",
+        "name": "Father's Day",
+        "countryCode": "VE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-24",
+        "localName": "D\u00eda de San Juan Bautista y aniversario de la Batalla de Carabobo",
+        "name": "Army Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-27",
+        "localName": "D\u00eda del Periodista y aniversario de la instauraci\u00f3n del Decreto de Instrucci\u00f3n p\u00fablica gratuita y obligatoria",
+        "name": "Journalists' Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-05",
+        "localName": "Cinco de julio",
+        "name": "Independence Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-21",
+        "localName": "Dia del ni\u00f1o",
+        "name": "Children's Day",
+        "countryCode": "VE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-24",
+        "localName": "Natalicio del Libertador, Dia de la Armada Nacional",
+        "name": "Navy Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-25",
+        "localName": "Aniversario del fundacion del Caracas",
+        "name": "Caracas City Foundation Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-03",
+        "localName": "D\u00eda de la Bandera",
+        "name": "Flag Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-08",
+        "localName": "D\u00eda del Virgen del Valle, aparicion del Virgen del Coromoto",
+        "name": "Birth of the Blessed Virgin Mary and feasts of the Virgen del Valle and Our Lady of Coromoto",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-24",
+        "localName": "D\u00eda del Virgen de las Mercedes",
+        "name": "Feast of the Our Lady of Mercy",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-12",
+        "localName": "D\u00eda de la Resistencia Ind\u00edgena",
+        "name": "Day of Indigenous Resistance",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-01",
+        "localName": "D\u00eda de Todos los Santos",
+        "name": "All Saints' Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-02",
+        "localName": "D\u00eda de los fieles difuntos",
+        "name": "All Souls' Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-17",
+        "localName": "Feria de la Chinita",
+        "name": "Feria of La Chinita",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-18",
+        "localName": "Feria de la Chinita",
+        "name": "Feria of La Chinita",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-19",
+        "localName": "Feria de la Chinita",
+        "name": "Feria of La Chinita",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-21",
+        "localName": "D\u00eda del estudiante universitario",
+        "name": "University Students Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-08",
+        "localName": "Inmaculada Concepci\u00f3n, Dia de la Lealtad",
+        "name": "Immaculate Conception, Loyalty Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-17",
+        "localName": "Aniversario de la muerte de Libertador Simon Bolivar",
+        "name": "Simon Bolivar Memorial Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "Nochebuena",
+        "name": "Christmas Eve",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Navidad",
+        "name": "Christmas Day",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-31",
+        "localName": "Nochevieja",
+        "name": "New Year's Eve",
+        "countryCode": "VE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

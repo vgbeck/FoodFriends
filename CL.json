@@ -1,0 +1,225 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Viernes Santo",
+        "name": "Good Friday",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-30",
+        "localName": "S\u00e1bado Santo",
+        "name": "Holy Saturday",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda del Trabajo",
+        "name": "Labour Day",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-21",
+        "localName": "D\u00eda de las Glorias Navales",
+        "name": "Navy Day",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-07",
+        "localName": "Asalto y Toma del Morro de Arica",
+        "name": "Battle of Arica",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": false,
+        "counties": [
+            "CL-AP"
+        ],
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-20",
+        "localName": "D\u00eda Nacional de los Pueblos Ind\u00edgenas",
+        "name": "National Day of Indigenous Peoples",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-24",
+        "localName": "San Pedro y San Pablo",
+        "name": "Saint Peter and Saint Paul",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-16",
+        "localName": "Virgen del Carmen",
+        "name": "Our Lady of Mount Carmel",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": 2007,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-15",
+        "localName": "Asunci\u00f3n de la Virgen",
+        "name": "Assumption of Mary",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-18",
+        "localName": "Fiestas Patrias",
+        "name": "National holiday",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-19",
+        "localName": "D\u00eda de las Glorias del Ej\u00e9rcito",
+        "name": "Army Day",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-12",
+        "localName": "D\u00eda del Descubrimiento de Dos Mundos",
+        "name": "Columbus Day",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-31",
+        "localName": "D\u00eda Nacional de las Iglesias Evang\u00e9licas y Protestantes",
+        "name": "Reformation Day",
+        "countryCode": "CL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-01",
+        "localName": "D\u00eda de Todos los Santos",
+        "name": "All Saints",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-08",
+        "localName": "Inmaculada Concepci\u00f3n",
+        "name": "Immaculate Conception",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Navidad / Natividad del Se\u00f1or",
+        "name": "Christmas Day",
+        "countryCode": "CL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

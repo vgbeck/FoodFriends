@@ -1,0 +1,184 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "Viti i Ri",
+        "name": "New Year's Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-02",
+        "localName": "Viti i Ri",
+        "name": "New Year's Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-14",
+        "localName": "Dita e Ver\u00ebs",
+        "name": "Summer Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-22",
+        "localName": "Dita e Sulltan Nevruzit",
+        "name": "Nowruz",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "Pashk\u00ebt Katolike",
+        "name": "Easter Sunday",
+        "countryCode": "AL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "H\u00ebnen e Pashk\u00ebt Katolike",
+        "name": "Easter Monday",
+        "countryCode": "AL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "Dita Nd\u00ebrkomb\u00ebtare e Punonj\u00ebsve",
+        "name": "May Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-05",
+        "localName": "Pashk\u00ebt Ortodokse",
+        "name": "Easter Sunday",
+        "countryCode": "AL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-06",
+        "localName": "H\u00ebnen e Pashk\u00ebt Ortodokse",
+        "name": "Easter Monday",
+        "countryCode": "AL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-21",
+        "localName": "Dita e N\u00ebn\u00eb Terez\u00ebs",
+        "name": "Mother Teresa Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-28",
+        "localName": "Dita e Pavar\u00ebsis\u00eb",
+        "name": "Independence Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-29",
+        "localName": "Dita e \u00c7lirimit",
+        "name": "Liberation Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-09",
+        "localName": "Dita Komb\u00ebtare e Rinis\u00eb",
+        "name": "Youth Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Krishtlindjet",
+        "name": "Christmas Day",
+        "countryCode": "AL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

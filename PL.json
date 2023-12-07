@@ -1,0 +1,171 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "Nowy Rok",
+        "name": "New Year's Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-06",
+        "localName": "\u015awi\u0119to Trzech Kr\u00f3li",
+        "name": "Epiphany",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "Wielkanoc",
+        "name": "Easter Sunday",
+        "countryCode": "PL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "Drugi Dzie\u0144 Wielkanocy",
+        "name": "Easter Monday",
+        "countryCode": "PL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "\u015awi\u0119to Pracy",
+        "name": "May Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-03",
+        "localName": "\u015awi\u0119to Narodowe Trzeciego Maja",
+        "name": "Constitution Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-19",
+        "localName": "Zielone \u015awi\u0105tki",
+        "name": "Pentecost",
+        "countryCode": "PL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-30",
+        "localName": "Bo\u017ce Cia\u0142o",
+        "name": "Corpus Christi",
+        "countryCode": "PL",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-15",
+        "localName": "Wniebowzi\u0119cie Naj\u015bwi\u0119tszej Maryi Panny",
+        "name": "Assumption Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-01",
+        "localName": "Wszystkich \u015awi\u0119tych",
+        "name": "All Saints' Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-11",
+        "localName": "Narodowe \u015awi\u0119to Niepodleg\u0142o\u015bci",
+        "name": "Independence Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Bo\u017ce Narodzenie",
+        "name": "Christmas Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "Drugi Dzie\u0144 Bo\u017cego Narodzenia",
+        "name": "St. Stephen's Day",
+        "countryCode": "PL",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

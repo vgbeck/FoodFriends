@@ -1,0 +1,197 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-06",
+        "localName": "D\u00eda de los Ni\u00f1os",
+        "name": "Children's Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "localName": "Carnaval",
+        "name": "Carnival",
+        "countryCode": "UY",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-13",
+        "localName": "Carnaval",
+        "name": "Carnival",
+        "countryCode": "UY",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-28",
+        "localName": "Semana de Turismo",
+        "name": "Maundy Thursday",
+        "countryCode": "UY",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Semana de Turismo",
+        "name": "Good Friday",
+        "countryCode": "UY",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-19",
+        "localName": "Desembarco de los 33 Orientales",
+        "name": "Landing of the 33 Patriots Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda de los Trabajadores",
+        "name": "International Workers' Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-18",
+        "localName": "Batalla de las Piedras",
+        "name": "Battle of Las Piedras",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-19",
+        "localName": "Natalicio de Artigas y D\u00eda del Nunca M\u00e1s",
+        "name": "Birthday of Jos\u00e9 Gervasio Artigas and Never Again Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-18",
+        "localName": "Jura de la Constituci\u00f3n",
+        "name": "Constitution Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-25",
+        "localName": "D\u00eda de la Independencia",
+        "name": "Independence Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-12",
+        "localName": "D\u00eda de la Raza",
+        "name": "Day of the race",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-02",
+        "localName": "D\u00eda de los Difuntos",
+        "name": "Deceased ones day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "D\u00eda de la Familia",
+        "name": "Christmas Day",
+        "countryCode": "UY",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

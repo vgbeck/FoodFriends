@@ -1,0 +1,93 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "\u5143\u65e6",
+        "name": "New Year's Day",
+        "countryCode": "CN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-10",
+        "localName": "\u6625\u8282",
+        "name": "Chinese New Year (Spring Festival)",
+        "countryCode": "CN",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-05",
+        "localName": "\u6e05\u660e\u8282",
+        "name": "Qingming Festival (Tomb-Sweeping Day)",
+        "countryCode": "CN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "\u52b3\u52a8\u8282",
+        "name": "Labour Day",
+        "countryCode": "CN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-10",
+        "localName": "\u7aef\u5348\u8282",
+        "name": "Dragon Boat Festival",
+        "countryCode": "CN",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-17",
+        "localName": "\u4e2d\u79cb\u8282",
+        "name": "Mid-Autumn Festival",
+        "countryCode": "CN",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-01",
+        "localName": "\u56fd\u5e86\u8282",
+        "name": "National Day",
+        "countryCode": "CN",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

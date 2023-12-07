@@ -1,0 +1,158 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "uusaasta",
+        "name": "New Year's Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-24",
+        "localName": "iseseisvusp\u00e4ev",
+        "name": "Independence Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": 1918,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "suur reede",
+        "name": "Good Friday",
+        "countryCode": "EE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-31",
+        "localName": "\u00fclest\u00f5usmisp\u00fchade 1. p\u00fcha",
+        "name": "Easter Sunday",
+        "countryCode": "EE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "kevadp\u00fcha",
+        "name": "Spring Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-19",
+        "localName": "nelip\u00fchade 1. p\u00fcha",
+        "name": "Pentecost",
+        "countryCode": "EE",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-23",
+        "localName": "v\u00f5idup\u00fcha and jaanilaup\u00e4ev",
+        "name": "Victory Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-24",
+        "localName": "jaanip\u00e4ev",
+        "name": "Midsummer Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-20",
+        "localName": "taasiseseisvumisp\u00e4ev",
+        "name": "Day of Restoration of Independence",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": 1991,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "j\u00f5ululaup\u00e4ev",
+        "name": "Christmas Eve",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "esimene j\u00f5ulup\u00fcha",
+        "name": "Christmas Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "teine j\u00f5ulup\u00fcha",
+        "name": "St. Stephen's Day",
+        "countryCode": "EE",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

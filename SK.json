@@ -1,0 +1,197 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "De\u0148 vzniku Slovenskej republiky",
+        "name": "Day of the Establishment of the Slovak Republic",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-06",
+        "localName": "Zjavenie P\u00e1na",
+        "name": "Epiphany",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Ve\u013ekono\u010dn\u00fd piatok",
+        "name": "Good Friday",
+        "countryCode": "SK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-01",
+        "localName": "Ve\u013ekono\u010dn\u00fd pondelok",
+        "name": "Easter Monday",
+        "countryCode": "SK",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "Sviatok pr\u00e1ce",
+        "name": "International Workers' Day",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-08",
+        "localName": "De\u0148 v\u00ed\u0165azstva nad fa\u0161izmom",
+        "name": "Day of victory over fascism",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-05",
+        "localName": "Sviatok sv\u00e4t\u00e9ho Cyrila a sv\u00e4t\u00e9ho Metoda",
+        "name": "St. Cyril and Methodius Day",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-29",
+        "localName": "V\u00fdro\u010die Slovensk\u00e9ho n\u00e1rodn\u00e9ho povstania",
+        "name": "Slovak National Uprising anniversary",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-01",
+        "localName": "De\u0148 \u00dastavy Slovenskej republiky",
+        "name": "Day of the Constitution of the Slovak Republic",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-09-15",
+        "localName": "Sedembolestn\u00e1 Panna M\u00e1ria",
+        "name": "Day of Our Lady of the Seven Sorrows",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-01",
+        "localName": "Sviatok V\u0161etk\u00fdch sv\u00e4t\u00fdch",
+        "name": "All Saints\u2019 Day",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-17",
+        "localName": "De\u0148 boja za slobodu a demokraciu",
+        "name": "Struggle for Freedom and Democracy Day",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-24",
+        "localName": "\u0160tedr\u00fd de\u0148",
+        "name": "Christmas Eve",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Prv\u00fd sviatok viano\u010dn\u00fd",
+        "name": "Christmas Day",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "Druh\u00fd sviatok viano\u010dn\u00fd",
+        "name": "St. Stephen's Day",
+        "countryCode": "SK",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

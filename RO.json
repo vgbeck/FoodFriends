@@ -1,0 +1,223 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "Anul Nou",
+        "name": "New Year's Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-02",
+        "localName": "Anul Nou",
+        "name": "Day after New Year's Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-06",
+        "localName": "Boboteaz\u0103",
+        "name": "Epiphany",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-07",
+        "localName": "Sf\u00e2ntul Ion",
+        "name": "Saint John the Baptist",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-24",
+        "localName": "Unirea Principatelor Rom\u00e2ne/Mica Unire",
+        "name": "Union Day/Small Union",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "Ziua Muncii",
+        "name": "Labour Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-03",
+        "localName": "Vinerea mare",
+        "name": "Good Friday",
+        "countryCode": "RO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": 2018,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-05",
+        "localName": "Pa\u0219tele",
+        "name": "Easter Sunday",
+        "countryCode": "RO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-06",
+        "localName": "Pa\u0219tele",
+        "name": "Easter Monday",
+        "countryCode": "RO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-01",
+        "localName": "Ziua Copilului",
+        "name": "Children's Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": 2017,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-23",
+        "localName": "Rusaliile",
+        "name": "Pentecost",
+        "countryCode": "RO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-24",
+        "localName": "Rusaliile",
+        "name": "Whit Monday",
+        "countryCode": "RO",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-15",
+        "localName": "Adormirea Maicii Domnului/Sf\u00e2nta Maria Mare",
+        "name": "Dormition of the Theotokos",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-30",
+        "localName": "Sf\u00e2ntul Andrei",
+        "name": "St. Andrew's Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-01",
+        "localName": "Ziua Na\u021bional\u0103/Marea Unire",
+        "name": "National Day/Great Union",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Cr\u0103ciunul",
+        "name": "Christmas Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-26",
+        "localName": "Cr\u0103ciunul",
+        "name": "St. Stephen's Day",
+        "countryCode": "RO",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

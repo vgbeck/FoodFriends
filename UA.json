@@ -1,0 +1,145 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "\u041d\u043e\u0432\u0438\u0439 \u0420\u0456\u043a",
+        "name": "New Year's Day",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-01-07",
+        "localName": "\u0420\u0456\u0437\u0434\u0432\u043e",
+        "name": "(Julian) Christmas",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-08",
+        "localName": "\u041c\u0456\u0436\u043d\u0430\u0440\u043e\u0434\u043d\u0438\u0439 \u0436\u0456\u043d\u043e\u0447\u0438\u0439 \u0434\u0435\u043d\u044c",
+        "name": "International Women's Day",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "\u0414\u0435\u043d\u044c \u043f\u0440\u0430\u0446\u0456",
+        "name": "International Workers' Day",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-05",
+        "localName": "\u0412\u0435\u043b\u0438\u043a\u0434\u0435\u043d\u044c",
+        "name": "Easter Sunday",
+        "countryCode": "UA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-09",
+        "localName": "\u0414\u0435\u043d\u044c \u043f\u0435\u0440\u0435\u043c\u043e\u0433\u0438 \u043d\u0430\u0434 \u043d\u0430\u0446\u0438\u0437\u043c\u043e\u043c \u0443 \u0414\u0440\u0443\u0433\u0456\u0439 \u0441\u0432\u0456\u0442\u043e\u0432\u0456\u0439 \u0432\u0456\u0439\u043d\u0456",
+        "name": "Victory day over Nazism in World War II",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-23",
+        "localName": "\u0422\u0440\u0456\u0439\u0446\u044f",
+        "name": "Pentecost",
+        "countryCode": "UA",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-28",
+        "localName": "\u0414\u0435\u043d\u044c \u041a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0456\u0457",
+        "name": "Constitution Day",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-24",
+        "localName": "\u0414\u0435\u043d\u044c \u041d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u043e\u0441\u0442\u0456",
+        "name": "Independence Day",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-14",
+        "localName": "\u0414\u0435\u043d\u044c \u0437\u0430\u0445\u0438\u0441\u043d\u0438\u043a\u0430 \u0423\u043a\u0440\u0430\u0457\u043d\u0438",
+        "name": "Defender of Ukraine Day",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "\u0420\u0456\u0437\u0434\u0432\u043e",
+        "name": "(Gregorian and Revised Julian) Christmas",
+        "countryCode": "UA",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]

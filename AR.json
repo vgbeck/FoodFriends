@@ -1,0 +1,210 @@
+[
+    {
+        "date": "2024-01-01",
+        "localName": "A\u00f1o Nuevo",
+        "name": "New Year's Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-12",
+        "localName": "Carnaval",
+        "name": "Carnival",
+        "countryCode": "AR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-02-13",
+        "localName": "Carnaval",
+        "name": "Carnival",
+        "countryCode": "AR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-24",
+        "localName": "D\u00eda Nacional de la Memoria por la Verdad y la Justicia",
+        "name": "Day of Remembrance for Truth and Justice",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-03-29",
+        "localName": "Viernes Santo",
+        "name": "Good Friday",
+        "countryCode": "AR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-04-02",
+        "localName": "D\u00eda del Veterano y de los Ca\u00eddos en la Guerra de Malvinas",
+        "name": "Day of the Veterans and Fallen of the Malvinas War",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-01",
+        "localName": "D\u00eda del Trabajador",
+        "name": "Labour Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-05-25",
+        "localName": "D\u00eda de la Revoluci\u00f3n de Mayo",
+        "name": "May Revolution",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-17",
+        "localName": "Paso a la Inmortalidad del General Mart\u00edn Miguel de G\u00fcemes",
+        "name": "Anniversary of the Passing of General Mart\u00edn Miguel de G\u00fcemes",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": 2016,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-06-20",
+        "localName": "Paso a la Inmortalidad del General Manuel Belgrano",
+        "name": "General Manuel Belgrano Memorial Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-07-09",
+        "localName": "D\u00eda de la Independencia",
+        "name": "Independence Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-08-19",
+        "localName": "Paso a la Inmortalidad del General Jos\u00e9 de San Mart\u00edn",
+        "name": "General Jos\u00e9 de San Mart\u00edn Memorial Day",
+        "countryCode": "AR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-10-14",
+        "localName": "D\u00eda del Respeto a la Diversidad Cultural",
+        "name": "Day of Respect for Cultural Diversity",
+        "countryCode": "AR",
+        "fixed": false,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-11-20",
+        "localName": "D\u00eda de la Soberan\u00eda Nacional",
+        "name": "National Sovereignty Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-08",
+        "localName": "D\u00eda de la Inmaculada Concepci\u00f3n de Mar\u00eda",
+        "name": "Immaculate Conception Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    },
+    {
+        "date": "2024-12-25",
+        "localName": "Navidad",
+        "name": "Christmas Day",
+        "countryCode": "AR",
+        "fixed": true,
+        "global": true,
+        "counties": null,
+        "launchYear": null,
+        "types": [
+            "Public"
+        ]
+    }
+]
