@@ -21,7 +21,7 @@ def christmas(cur, conn):
             SELECT country.name
             FROM country
             JOIN holiday
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.name = 'Christmas Day'
         """
     )
@@ -35,7 +35,7 @@ def independance_day(cur, conn):
             SELECT country.name
             FROM country
             JOIN holiday
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.name = 'Independence Day'
         """
     )
@@ -49,7 +49,7 @@ def may_day(cur, conn):
             SELECT country.name
             FROM country
             JOIN holiday
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.name = 'May Day'
         """
     )
@@ -63,7 +63,7 @@ def stephen_day(cur, conn):
             SELECT country.name
             FROM country
             JOIN holiday
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.name = 'Constitution Day'
         """
     )
@@ -77,7 +77,7 @@ def patrick_day(cur, conn):
             SELECT country.name
             FROM country
             JOIN holiday
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.name = 'Easter Sunday'
         """
     )
@@ -91,7 +91,7 @@ def first_half_us(cur,conn):
             SELECT holiday.name
             FROM holiday
             JOIN country
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.date <'2024-07-02' AND country.name = 'United States'
         """
     )
@@ -105,7 +105,7 @@ def second_half_us(cur,conn):
             SELECT holiday.name
             FROM holiday
             JOIN country
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.date > '2024-07-02' AND country.name = 'United States'
         """
     )
@@ -120,7 +120,7 @@ def first_half_canada(cur,conn):
             SELECT holiday.name
             FROM holiday
             JOIN country
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.date <'2024-07-02' AND country.name = 'Canada'
         """
     )
@@ -134,8 +134,64 @@ def second_half_canada(cur,conn):
             SELECT holiday.name
             FROM holiday
             JOIN country
-            ON holiday.country_id = country.country_id
+            ON holiday.country_id = country.id
             WHERE holiday.date > '2024-07-02' AND country.name = 'Canada'
+        """
+    )
+    res = cur.fetchall()
+    conn.commit()
+    return res
+
+def first_half_mexico(cur,conn):
+    cur.execute(
+        """
+            SELECT holiday.name
+            FROM holiday
+            JOIN country
+            ON holiday.country_id = country.id
+            WHERE holiday.date <'2024-07-02' AND country.name = 'Mexico'
+        """
+    )
+    res = cur.fetchall()
+    conn.commit()
+    return res
+
+def second_half_mexico(cur,conn):
+    cur.execute(
+        """
+            SELECT holiday.name
+            FROM holiday
+            JOIN country
+            ON holiday.country_id = country.id
+            WHERE holiday.date > '2024-07-02' AND country.name = 'Mexico'
+        """
+    )
+    res = cur.fetchall()
+    conn.commit()
+    return res
+
+def first_half_iceland(cur,conn):
+    cur.execute(
+        """
+            SELECT holiday.name
+            FROM holiday
+            JOIN country
+            ON holiday.country_id = country.id
+            WHERE holiday.date <'2024-07-02' AND country.name = 'Iceland'
+        """
+    )
+    res = cur.fetchall()
+    conn.commit()
+    return res
+
+def second_half_iceland(cur,conn):
+    cur.execute(
+        """
+            SELECT holiday.name
+            FROM holiday
+            JOIN country
+            ON holiday.country_id = country.id
+            WHERE holiday.date > '2024-07-02' AND country.name = 'Iceland'
         """
     )
     res = cur.fetchall()
@@ -168,6 +224,7 @@ def visualize_pi(cur, conn):
     us2 = len(second_half_us(cur,conn))
     canada1 = len(first_half_canada(cur,conn))
     canada2 = len(second_half_canada(cur,conn))
+    
 
     # fig, axs = plt.pie(1, 2)
 
@@ -185,10 +242,58 @@ def visualize_pi(cur, conn):
     
     plt.show()
 
+def visualis_two_pie(cur, conn):
+    us1 = len(first_half_us(cur,conn))
+    us2 = len(second_half_us(cur,conn))
+    canada1 = len(first_half_canada(cur,conn))
+    canada2 = len(second_half_canada(cur,conn))
+    mexico1 = len(first_half_mexico(cur, conn))
+    mexico2 = len(second_half_mexico(cur, conn))
+    iceland1 = len(first_half_iceland(cur, conn))
+    iceland2 = len(second_half_iceland(cur, conn))
+
+    labels1 = ["First half of the year", "Second half of the year"]
+    sizes1 = [us1, us2]
+
+# Data for the second pie chart
+    labels2 = ["First half of the year", "Second half of the year"]
+    sizes2 = [canada1, canada2]
+
+    labels3 = ["First half of the year", "Second half of the year"]
+    sizes3 = [mexico1, mexico2]
+
+    labels4 = ["First half of the year", "Second half of the year"]
+    sizes4 = [iceland1, iceland2]
+
+# Create subplots with 1 row and 2 columns
+    fig, axs = plt.subplots(2, 2)
+
+# Plot the first pie chart
+    axs[0][0].pie(sizes1, labels=labels1, autopct='%1.1f%%')
+    axs[0][0].set_title('United States')
+
+# Plot the second pie chart
+    axs[0][1].pie(sizes2, labels=labels2, autopct='%1.1f%%')
+    axs[0][1].set_title('Canada')
+
+    axs[1][0].pie(sizes3, labels=labels3, autopct='%1.1f%%')
+    axs[1][0].set_title('Mexico')
+
+    axs[1][1].pie(sizes4, labels=labels4, autopct='%1.1f%%')
+    axs[1][1].set_title('Iceland')
+
+# Adjust the layout
+    plt.tight_layout()
+
+
+# Display the plot
+    plt.show()
+
 def main():
     cur, conn = setUpDatabase("country.db")
-    visualize(cur, conn)
-    visualize_pi(cur, conn)
+    # visualize(cur, conn)
+    # visualize_pi(cur, conn)
+    visualis_two_pie(cur, conn)
 
 
 if __name__ == "__main__":
