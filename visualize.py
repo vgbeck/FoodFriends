@@ -5,6 +5,7 @@ import sqlite3
 import ssl
 import pprint
 import matplotlib.pyplot as plt
+import csv
 
 
 def setUpDatabase(db_name):
@@ -216,6 +217,8 @@ def visualize(cur, conn):
     plt.title("Holiday count")
    
     plt.show()
+    file_path = 'output.csv'
+    return data.items()
 
 
 def visualize_pi(cur, conn):
@@ -241,6 +244,17 @@ def visualize_pi(cur, conn):
     plt.title("# of Holidays in each Half of the Year")
     
     plt.show()
+    file_path = 'output.csv'
+    
+
+# Open the file in write mode
+    with open(file_path, 'w', newline='') as file:
+        # Create a CSV writer object
+        writer = csv.writer(file)
+
+        # Write the data to the CSV file
+        writer.writerows(y)
+        writer.writerows(y2)
 
 def visualis_two_pie(cur, conn):
     us1 = len(first_half_us(cur,conn))
@@ -281,19 +295,28 @@ def visualis_two_pie(cur, conn):
 
     axs[1][1].pie(sizes4, labels=labels4, autopct='%1.1f%%')
     axs[1][1].set_title('Iceland')
-
 # Adjust the layout
     plt.tight_layout()
-
-
 # Display the plot
     plt.show()
+    return [sizes1, sizes2, sizes3, sizes4]
+
+
+
 
 def main():
     cur, conn = setUpDatabase("country.db")
-    # visualize(cur, conn)
+    bar = visualize(cur, conn)
     # visualize_pi(cur, conn)
-    visualis_two_pie(cur, conn)
+    pie = visualis_two_pie(cur, conn)
+
+    with open("output.csv", 'w', newline='') as file:
+        # Create a CSV writer object
+        writer = csv.writer(file)
+
+        # Write the data to the CSV file
+        writer.writerows(bar)
+        writer.writerows(pie)
 
 
 if __name__ == "__main__":
